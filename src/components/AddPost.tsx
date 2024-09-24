@@ -33,7 +33,7 @@ const AddPost = () => {
             className="flex-1 bg-slate-100 rounded-lg p-2"
             name="desc"
           ></textarea>
-          <div className="">
+          <div className="self-end">
             <Image
               src="/emoji.png"
               alt=""
