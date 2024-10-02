@@ -343,3 +343,4 @@ export const deletePost = async (postId: number) => {
     console.log(err);
   }
 };
+ 
